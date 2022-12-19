@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## This code is for download six fastq files. ##
+## This code is for downloading six fastq files. ##
 PROGRAM="fastq-dump"
 SAMPLE=("SRR391535" "SRR391536" "SRR391537" "SRR391538" "SRR391539" "SRR391541")
 ######################################
